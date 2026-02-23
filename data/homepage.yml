@@ -1,0 +1,165 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I'm Asma."
+  subtitle: "Data Scientist | Analytics & BI"
+  description: "I build systems that turn raw data into decisions people understand, trust and actually use."
+
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-m.jpg"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/asma-bouach/"
+
+    - icon: "github"
+      URL: "https://github.com/asmabouach"
+
+# about
+about:
+  enable: true
+  title: "About"
+  content: '<p class="lead">
+    Computer Science Engineer specialized in Data Science and Business Intelligence, with a background in design and UX/UI. This combination helps me translate data into information that people can understand and use.
+    </p>
+    <p class="lead">
+    I focus on solving decision problems by combining data modeling, analytics pipelines, and visualizations that help teams move from analysis to action.
+    </p>
+    <p>
+    Currently deepening expertise in cloud architectures and MLOps to build reliable AI systems ready for real environments.
+    </p>'
+
+# education
+education:
+  enable: false
+  title: "Education"
+  items:
+    - university: "University of "
+      year: " "
+      degree: " "
+
+    - university: "University of "
+      year: " "
+      degree: " "
+
+# experience
+experience:
+  enable: false
+  title: "Experience"
+  description: ""
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Resume"
+    URL: "#"
+
+  items:
+    - title: ""
+      company: ""
+      duration: ""
+
+    - title: ""
+      company: ""
+      duration: ""
+
+    - title: ""
+      company: ""
+      duration: ""
+
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  works:
+    - title: "Sales Forecasting & Financial Analytics Platform"
+      description: |
+        Automated financial reporting and forecasting workflows so dashboards and KPIs stay updated, 
+        giving decision makers clearer visibility and faster planning with less manual effort.
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/salesforecasting.jpg"
+        _2x: "img/works/salesforecasting@2x.jpg"
+      is_even: true
+
+    - title: "Waze Churn Prediction App"
+      description: |
+        User behavior data is transformed into churn predictions with explainable models achieving 69% recall, 
+        helping teams understand risk and act more confidently.
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      button2:             
+        icon: "icon-arrow-right"
+        btnText: "Live Demo"
+        URL: "https://asma-bouach-waze-churn-prediction.streamlit.app" 
+      image:
+        x: "img/works/wazechurn.jpg"
+        _2x: "img/works/wazechurn@2x.jpg"
+      is_even: false
+
+    - title: "Alzheimer MRI Detection"
+      description: |
+        MRI images are classified into Alzheimer stages with visual explanations and confidence scores, 
+        making results easier to interpret through a clear and accessible interface.
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      button2:             
+        icon: "icon-arrow-right"
+        btnText: "Live Demo"
+        URL: "https://asma-b-alzheimer-mri-detection.streamlit.app" 
+      image:
+        x: "img/works/alzheimerdetection.jpg"
+        _2x: "img/works/alzheimerdetection@2x.jpg"
+      is_even: true
+
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: ""
+      position: ""
+      content: ""
+      image:
+        x: ""
+        _2x: ""
+
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: ""
+    email: ""
+    message: ""
+  phone:
+    title: ""
+    number: ""
+  email:
+    title: ""
+    email: ''
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: ""
+  success_message: ""
+  error_message: ""
+  note: ""
