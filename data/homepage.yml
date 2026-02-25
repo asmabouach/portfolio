@@ -96,11 +96,11 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+        URL: "https://github.com/asmabouach/waze-churn-prediction"
       button2:             
         icon: "icon-arrow-right"
         btnText: "Live Demo"
-        URL: "https://asma-bouach-waze-churn-prediction.streamlit.app" 
+        URL: "https://waze-churn-prediction.streamlit.app" 
       image:
         x: "img/works/wazechurn.jpg"
         _2x: "img/works/wazechurn@2x.jpg"
@@ -113,11 +113,11 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+        URL: "https://github.com/asmabouach/alzheimer-mri-detection"
       button2:             
         icon: "icon-arrow-right"
         btnText: "Live Demo"
-        URL: "https://asma-b-alzheimer-mri-detection.streamlit.app" 
+        URL: "https://alzheimer-mri-detection.streamlit.app" 
       image:
         x: "img/works/alzheimerdetection.jpg"
         _2x: "img/works/alzheimerdetection@2x.jpg"
