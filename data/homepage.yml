@@ -83,7 +83,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
-        URL: "#"
+        URL: "https://github.com/asmabouach/sales-forecasting-platform"
       image:
         x: "img/works/salesforecasting.jpg"
         _2x: "img/works/salesforecasting@2x.jpg"
