@@ -2,8 +2,8 @@
 showcase:
   enable: true
   title: "Hello, I'm Asma."
-  subtitle: "Data Scientist | Analytics & BI"
-  description: "I build systems that turn raw data into decisions people understand, trust and actually use."
+  subtitle: "Data Analyst | BI & Analytics"
+  description: "I turn raw data into actionable insights that support better business decisions."
 
   image:
     x: "img/showcase/showcase.png"
@@ -23,13 +23,13 @@ about:
   enable: true
   title: "About"
   content: '<p class="lead">
-    Computer Science Engineer specialized in Data Science and Business Intelligence, with a background in design and UX/UI. This combination helps me translate data into information that people can understand and use.
+    Computer Science Engineer specializing in Business Intelligence and Data Science, with a background in UX/UI design focused on making data interfaces intuitive and easy to use.
     </p>
     <p class="lead">
-    I focus on solving decision problems by combining data modeling, analytics pipelines, and visualizations that help teams move from analysis to action.
+    I transform raw data into actionable insights by cleaning and structuring data, building models and pipelines, and delivering dashboards, reports, and analytics that support decision-making.
     </p>
     <p>
-    Currently deepening expertise in cloud architectures and MLOps to build reliable AI systems ready for real environments.
+    Currently expanding expertise in cloud platforms and modern data transformation workflows to build scalable analytics solutions.
     </p>'
 
 # education
